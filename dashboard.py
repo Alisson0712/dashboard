@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1fqMveO9tGn-LAAaB-YHbdN2N6yGhcRvX
 """
 
-#dashboard in Python using Streamlit
-!pip install -q streamlit
-!npm install -g localtunnel
-
 #Import Libraries
 import streamlit as st
 import pandas as pd
