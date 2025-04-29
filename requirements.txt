@@ -4,3 +4,6 @@ altair
 plotly
 matplotlib
 seaborn
+WordCloud
+stopwords
+nltk
